@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 </details>
 
--
 *  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 *  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 *  ![SEO](https://img.shields.io/badge/-Seo-333333?style=flat&logo=seo)
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 *  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 *  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 *  ![MySQL](https://img.shields.io/badge/-C++-333333?style=flat&logo=mysql)
-*  ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=csharp)
+*  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
 *  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 *  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 *  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
