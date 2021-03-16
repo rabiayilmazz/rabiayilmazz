@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm an engineer :girl_technologist: :computer:
+## I'm an engineer :computer:
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=rabiayilmazz_rabiayilmazz) **|** [![Github](https://img.shields.io/github/followers/rabiayilmazz?label=Follow&style=social)](https://github.com/rabiayilmazz)
 
