@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 * [![Instagram Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/rrbylmzz/)
 *  [![Linkedin Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rabiayilmazz)
 * [![Facebook Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20facebook-darkblue?style=for-the-badge&logo=facebook)](https://www.facebook.com/rabia.yilmaz.72242)
-*  [![Twitter Badge](https://img.shields.io/badge/rabiayilmaz-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rbylmzzz)
+*  [![Twitter Badge]()](https://twitter.com/rbylmzzz)
