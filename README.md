@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm an engineer :computer:
-
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=rabiayilmazz_rabiayilmazz) **|** [![Github](https://img.shields.io/github/followers/rabiayilmazz?label=Follow&style=social)](https://github.com/rabiayilmazz)
+
+## ![All my articles in TeknoTower](www.teknotower.com/author/rabiayilmaz)  or [My Medium account](https://rabiayilmazz.medium.com/)
 
 <br />
 <br />
 
  <details>
    <summary>:zap: GitHub Stats</summary>
-
-[Bütün yazılarım](www.teknotower.com/author/rabiayilmaz)
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayilmazz&theme=tokyonight)
 
