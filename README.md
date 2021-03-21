@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=rabiayilmazz_rabiayilmazz) **|** [![Github](https://img.shields.io/github/followers/rabiayilmazz?label=Follow&style=social)](https://github.com/rabiayilmazz)
 
-## ![All my articles in TeknoTower](www.teknotower.com/author/rabiayilmaz)  or [My Medium account](https://rabiayilmazz.medium.com/)
+#### ![All my articles in TeknoTower](https://www.teknotower.com/author/rabiayilmaz) 
+#### [My Medium account](https://rabiayilmazz.medium.com/)
 
 <br />
 <br />
