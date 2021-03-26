@@ -29,22 +29,21 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-*  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-*  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-*  ![SEO](https://img.shields.io/badge/-Seo-333333?style=flat&logo=seo)
-*  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
-*  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-*  ![MySQL](https://img.shields.io/badge/-C++-333333?style=flat&logo=mysql)
-*  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-*  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-*  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-*  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-*  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+*  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+*  ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+*  ![Python](https://img.shields.io/badge/-Python-black?style=flat-squarelogo=python)
+*  ![SEO](https://img.shields.io/badge/-Seo-black?style=flat-square&logo=seo)
+*  ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
+*  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+*  ![MySQL](https://img.shields.io/badge/-C++-black?style=flat-square&logo=mysql)
+*  ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
+*  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logoColor=1572B6)
 *  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 *  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 *  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 *  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 *  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+*  ![PhotoShop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=photoshop)
 
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,6 +72,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
