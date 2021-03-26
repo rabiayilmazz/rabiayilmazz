@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 #### [My Medium account 💬](https://rabiayilmazz.medium.com/)
 
 <br />
- <details>
-   <summary>:zap: GitHub Stats</summary>
+
+<summary>:zap: GitHub Stats</summary>
 
 ![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayilmazz&theme=tokyonight)
 
-</details>
 
 ## ⚡ Technologies
 
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 *  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 *  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 *  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-*  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 *  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 *  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 *  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -51,19 +49,14 @@ Here are some ideas to get you started:
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Contact Me 📫
-* [![Instagram Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/rrbylmzz/)
-* [![Linkedin Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rabiayilmazz)
-* [![Facebook Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20facebook-darkblue?style=for-the-badge&logo=facebook)](https://www.facebook.com/rabia.yilmaz.72242)
-* [![Twitter Badge](https://img.shields.io/badge/rabiayilmaz-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/rbylmzzz)
-*  ***Mail:*** **yyilmazrabiaa@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiayilmazz/)](https://www.linkedin.com/in/rabiayilmazz/)
 [![Instagram Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rrbylmzz/)](https://instagram.com/rrbylmzz)
 [![Youtube Badge](https://img.shields.io/badge/-rabiayilmazz-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)](https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)
 [![Medium Badge](https://img.shields.io/badge/-@rabiayilmazz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rabiayilmazz/)](https://medium.com/@rabiayilmazz)
 [![Gmail Badge](https://img.shields.io/badge/-yyilmazrabiaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyilmazzrabiaa@gmail.com)](mailto:yyilmazrabiaa@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/rabia.yilmaz.72242/)](https://www.facebook.com/rabia.yilmaz.72242)
-[![Twitter Badge]((https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
+[![Facebook Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rabia.yilmaz.72242/)](https://www.facebook.com/rabia.yilmaz.72242)
+[![Twitter Badge]((https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
 
 
 <!--
