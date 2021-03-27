@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: GitHub Stats</summary>
 
-
+![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayilmazz&theme=tokyonight)
 
 
 ## ⚡ Technologies
