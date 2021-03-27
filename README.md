@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 *  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 *  ![PhotoShop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=photoshop)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiayilmazz/)](https://www.linkedin.com/in/rabiayilmazz/)
