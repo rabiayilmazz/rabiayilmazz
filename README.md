@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-yyilmazrabiaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyilmazzrabiaa@gmail.com)](mailto:yyilmazrabiaa@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rabia.yilmaz.72242/)](https://www.facebook.com/rabia.yilmaz.72242)
 [![Twitter Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
+[![Kaggle Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/rabiayilmazz/)](https://kaggle.com/rabiayilmazz)
 
 
 <!--
