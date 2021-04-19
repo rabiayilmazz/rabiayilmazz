@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 *  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 *  ![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
-*  ![Python](https://img.shields.io/badge/-Python-green?style=flat-squarelogo=python)
+*  ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
 *  ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
 *  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 *  ![Swift](https://img.shields.io/badge/-Swift-white?style=flat-square&logo=swift)
