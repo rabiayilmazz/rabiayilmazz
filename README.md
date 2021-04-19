@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 *  ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
 *  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 *  ![Swift](https://img.shields.io/badge/-Swift-white?style=flat-square&logo=swift)
-*  ![MySQL](https://img.shields.io/badge/-MySQL-primary?style=flat-square&logo=mysql)
+*  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 *  ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=csharp)
 *  ![CSS](https://img.shields.io/badge/-CSS-grey?style=flat-square&logoColor=1572B6)
 *  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 *  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 *  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 *  ![PhotoShop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=photoshop)
+*  ![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp)
 
 ## Contact Me 📫
 
