@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 *  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 *  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 *  ![PhotoShop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=photoshop)
+*  ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=ıllustrator)
 *  ![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp)
 
 ## Contact Me 📫
