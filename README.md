@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 *  ![Swift](https://img.shields.io/badge/-Swift-white?style=flat-square&logo=swift)
 *  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 *  ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=csharp)
-*  ![CSS](https://img.shields.io/badge/-CSS-grey?style=flat-square&logoColor=1572B6)
+*  ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=flat-square&logoColor=CSS3)
 *  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 *  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 *  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
