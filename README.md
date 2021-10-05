@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
 [![Kaggle Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/rabiayilmazz/)](https://kaggle.com/rabiayilmazz)
 
-
 <!--
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
