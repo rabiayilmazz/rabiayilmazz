@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayilmazz&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Rabia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## ⚡ Technologies
 
@@ -55,11 +54,8 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiayilmazz/)](https://www.linkedin.com/in/rabiayilmazz/)
 [![Instagram Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rrbylmzz/)](https://instagram.com/rrbylmzz)
-[![Youtube Badge](https://img.shields.io/badge/-rabiayilmazz-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)](https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)
 [![Medium Badge](https://img.shields.io/badge/-@rabiayilmazz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rabiayilmazz/)](https://medium.com/@rabiayilmazz)
 [![Gmail Badge](https://img.shields.io/badge/-yyilmazrabiaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyilmazzrabiaa@gmail.com)](mailto:yyilmazrabiaa@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rabia.yilmaz.72242/)](https://www.facebook.com/rabia.yilmaz.72242)
-[![Twitter Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
 [![Kaggle Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/rabiayilmazz/)](https://kaggle.com/rabiayilmazz)
 
 <!--
@@ -76,5 +72,10 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
+![Rabia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Youtube Badge](https://img.shields.io/badge/-rabiayilmazz-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)](https://www.youtube.com/channel/UCqyqtDl-qhb8-g1_9k7BOfQ)
+
+[![Facebook Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rabia.yilmaz.72242/)](https://www.facebook.com/rabia.yilmaz.72242)
+[![Twitter Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbylmzzz/)](https://twitter.com/rbylmzzz)
 -->
