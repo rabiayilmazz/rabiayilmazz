@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rabiayilmazz&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayilmazz&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabiayilmazz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://wakatime.com/@rabiayilmazz)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiayilmazz" alt="rabiayilmazz" /></a> </p>
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabiayilmazz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://wakatime.com/@rabiayilmazz)-->
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiayilmazz" alt="rabiayilmazz" /></a> </p>
 
 ## ⚡ Technologies
 
