@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiayilmazz/)](https://www.linkedin.com/in/rabiayilmazz/)
-[![Instagram Badge](https://img.shields.io/badge/-rrbylmzz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rrbylmzz/)](https://instagram.com/rrbylmzz)
+[![Instagram Badge](https://img.shields.io/badge/-orabiayilmazo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/orabiayilmazo/)](https://instagram.com/orabiayilmazo)
 [![Medium Badge](https://img.shields.io/badge/-@rabiayilmazz-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rabiayilmazz/)](https://medium.com/@rabiayilmazz)
 [![Gmail Badge](https://img.shields.io/badge/-yyilmazrabiaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyilmazzrabiaa@gmail.com)](mailto:yyilmazrabiaa@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-rabiayilmazz-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/rabiayilmazz/)](https://kaggle.com/rabiayilmazz)
